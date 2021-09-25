@@ -1,2 +1,3 @@
 # Data_Analysis
-[Lab 1.pdf](https://github.com/poprygo/Data_Analysis/files/7229203/Lab.1.pdf)
+
+![](http://dl4.joxi.net/drive/2021/09/25/0032/1916/2119548/48/e8985c5ea0.png)
